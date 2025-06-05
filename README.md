@@ -36,7 +36,9 @@ Male customers: $16B (80.56%)
 
 Female customers: $3.86B (19.44%)
 
-📉 Least Income Customers
+#### 📉 Least Income Customers
+![least customer](https://github.com/user-attachments/assets/9efc5cba-a9cd-4756-ad1f-0d8bbe826f3d)
+
 10 customers with the lowest income all earn $13.5K annually
 
 🔍 Noteworthy Insights
