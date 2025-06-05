@@ -44,6 +44,26 @@ Female customers: $3.86B (19.44%)
 🔍 Noteworthy Insights
 A small segment of customers contributes significantly to total income — evident in the $78M high from a single customer.
 
-Male customers represent the vast majority of purchasing power in this dataset.
+#### 🏷️ Highest Price by Company
+![Screenshot 2025-06-05 122326](https://github.com/user-attachments/assets/fb43feb8-7b2f-455b-8a8a-b07cedac0467)
 
-Premium brands are capturing high-income customers — especially Chevrolet and Ford.
+Chevrolet: $48M
+
+Ford: $47M
+
+Dodge: $44M
+
+Oldsmobile & Mercedes-Benz: $35M each
+
+Shows which manufacturers offer high-ticket products. Ideal for positioning luxury vs. economy vehicles.
+
+#### ⚖️ Gender by Annual Income
+![Screenshot 2025-06-05 122549](https://github.com/user-attachments/assets/e499a12b-fc37-4184-ac9c-12250ca5951e)
+
+Male: $16B (80.56%)
+
+Female: $3.86B (19.44%)
+
+Substantial disparity highlights the need for gender-specific strategies in marketing, financing, and customer service.
+
+
