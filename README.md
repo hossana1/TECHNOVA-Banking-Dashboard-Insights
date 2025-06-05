@@ -19,7 +19,9 @@ Minimum Annual Income: $10K
 
 Number of Customers: 24,000
 
-👥 Top Customers by Income
+#### 👥 Top Customers by Income
+![custumores by income](https://github.com/user-attachments/assets/68574f39-3d97-44fa-ba87-eea4168f1cff)
+
 Highest individual: Emma with $78M
 
 Other top earners include Lucas ($74M), Nathan ($69M), and Thomas ($69M)
