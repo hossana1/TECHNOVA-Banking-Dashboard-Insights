@@ -6,6 +6,9 @@
 ![sales report (4)](https://github.com/user-attachments/assets/d3e5d034-2c42-4597-a178-483eb4c5f659)
 
 📊 Key Metrics
+Sales Report Cards
+![Screenshot 2025-06-05 114619](https://github.com/user-attachments/assets/99249bdb-ef17-4184-ac1a-c9e691ea93f4)
+
 Total Annual Income: $20 billion
 
 Average Annual Income per Customer: ~$830.8K
