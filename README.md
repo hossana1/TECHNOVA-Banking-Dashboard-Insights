@@ -67,7 +67,7 @@ Female: $3.86B (19.44%)
 Substantial disparity highlights the need for gender-specific strategies in marketing, financing, and customer service.
 
 ### 📈 Recommendations to Enhance Growth
-1. Capitalize on High-Income Customers
+1. Capitalize on High-Income Customers,
 Why: The top 10 customers (e.g., Emma, Lucas) account for disproportionately high income.
 
 ##### Action:
@@ -78,7 +78,7 @@ Use personalized marketing to retain and upsell to these customers.
 
 Develop VIP customer tiers with perks tied to income or past purchases.
 
-2. Tap Into Underserved Low-Income Segment
+2. Tap Into Underserved Low-Income Segment,
 Why: A large group of customers (e.g., Adell, Abril) are clustered at the $13.5K annual income level.
 
 #### Action:
@@ -89,7 +89,7 @@ Consider subscription-based ownership models or short-term leasing.
 
 Partner with community organizations for income-based incentive programs.
 
-3. Leverage Gender-Based Insights
+3. Leverage Gender-Based Insights,
 Why: Males contribute 80.56% of the income; females only 19.44%.
 
 #### Action:
@@ -100,7 +100,7 @@ Launch women-focused advertising campaigns and incentives (e.g., family-friendly
 
 Improve dealership experience and service inclusivity (e.g., female sales staff, safety packages).
 
-4. Expand High-Value Brand Offerings
+4. Expand High-Value Brand Offerings,
 Why: Chevrolet, Ford, and Dodge lead in vehicle pricing (up to $48M).
 
 #### Action:
@@ -109,7 +109,7 @@ Highlight and promote top-selling, high-margin models through campaigns and fina
 
 Use data from high spenders to refine luxury product development and dealership inventory.
 
-5. Optimize Customer Segmentation
+5. Optimize Customer Segmentation,
 Why: Customer data reveals clear income tiers and brand preferences.
 
 #### Action:
@@ -118,7 +118,7 @@ Use segmentation (High, Mid, Low income) to tailor offers, promotions, and finan
 
 Build dynamic dashboards for sales teams to track key customer segments in real time.
 
-6. Enhance Data-Driven Personalization
+6. Enhance Data-Driven Personalization,
 Why: The dashboard enables filtering by customer and company.
 
 #### Action:
