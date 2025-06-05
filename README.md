@@ -1,8 +1,8 @@
 # United-States-Car-Sales-Dashboard-Insights
-From this  analysis of car sales data in the U.S. reveals key trends in customer income distribution and brand pricing:
-#### Analyst: Hossana
-#### Date: 01/05/2025
-### Overview Of Car Sales Dashboard:
+## From this  analysis of car sales data in the U.S. reveals key trends in customer income distribution and brand pricing:
+### Analyst: Hossana
+### Date: 01/05/2025
+## Overview Of Car Sales Dashboard:
 ![sales report (4)](https://github.com/user-attachments/assets/d3e5d034-2c42-4597-a178-483eb4c5f659)
 
 📊 Key Metrics
