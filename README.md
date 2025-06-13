@@ -1,132 +1,101 @@
-# United-States-Car-Sales-Dashboard-Insights
-## From this  analysis of car sales data in the U.S. reveals key trends in customer income distribution and brand pricing:
+# TECHNOVA-Banking-Dashboard
+## This dashboard presents a comprehensive view of customer demographics, loan and deposit behaviors, account types, and transaction trends across various U.S. cities. It is designed to assist TECHNOVA’s financial services team in identifying trends, managing risk, and improving customer service strategies
 ### Analyst: Hossana
-### Date: 01/05/2025
-## Overview Of Car Sales Dashboard:
-![sales report (4)](https://github.com/user-attachments/assets/d3e5d034-2c42-4597-a178-483eb4c5f659)
+## Date: 09/06/2025
+## 🧾 Overview of the Dashboard
+![Screenshot 2025-06-09 170509](https://github.com/user-attachments/assets/25bed7ef-5597-4d7a-94c2-edeab36f8d95)
+Dashboard Preview
 
-## 📊 Key Metrics
-### Sales Dashboard Cards
-![Screenshot 2025-06-05 114619](https://github.com/user-attachments/assets/99249bdb-ef17-4184-ac1a-c9e691ea93f4)
+## 📊 Key Financial Metrics
+## 🏦 Bank Metrics
+![Screenshot 2025-06-13 140534](https://github.com/user-attachments/assets/9a1d9c6b-9711-4be3-bdce-559c7a50d050)
 
-Total Annual Income: $20 billion
+Total Account Balance: $25.30M
 
-Average Annual Income per Customer: ~$830.8K
+Total Loan Amount Issued: $127.51M
 
-Maximum Annual Income: $11 million
+Average Credit Card Limit: $5.55K
 
-Minimum Annual Income: $10K
+Total Customers: 5,000
 
-Number of Customers: 24,000
+# 📌 Insight: High loan exposure compared to account balance indicates strong lending operations, but also potential credit risk.
 
-#### 👥 Top Customers by Income
-![custumores by income](https://github.com/user-attachments/assets/68574f39-3d97-44fa-ba87-eea4168f1cff)
+# 🌆 City-Wise Customer Distribution
+## 👥 No. of Customers by City
+![Screenshot 2025-06-13 140822](https://github.com/user-attachments/assets/0d1ba213-a40c-4b4e-9251-f9b19bc02c70)
 
-Highest individual: Emma with $78M
+San Jose: 163
 
-Other top earners include Lucas ($74M), Nathan ($69M), and Thomas ($69M)
+San Francisco: 148
 
-💵 High-End Car Pricing
-Chevrolet and Ford lead in pricing with vehicles at $48M and $47M respectively
+Tucson: 138
 
-Other premium brands: Dodge ($44M), Mercedes-Benz ($35M), Oldsmobile ($35M)
+Washington: 130
 
-⚖️ Income Distribution by Gender
-Male customers: $16B (80.56%)
+San Diego: 126
 
-Female customers: $3.86B (19.44%)
+San Antonio: 123
 
-#### 📉 Least Income Customers
-![least customer](https://github.com/user-attachments/assets/9efc5cba-a9cd-4756-ad1f-0d8bbe826f3d)
+Seattle: 122
 
-10 customers with the lowest income all earn $13.5K annually
+# 📌 Insight: San Jose and San Francisco lead in customer base, suggesting potential hubs for expanding financial services.
 
-🔍 Noteworthy Insights
-A small segment of customers contributes significantly to total income — evident in the $78M high from a single customer.
+## 📈 Transaction Trends
+💳 Total Transaction Volume by Date/Month
+![Screenshot 2025-06-13 140829](https://github.com/user-attachments/assets/53ba5e0f-0b6c-4f1a-9cd8-218e6bd94fd1)
+Peaks: March 2023, August 2023 (~$2.3M–$2.4M)
 
-#### 🏷️ Highest Price by Company
-![Screenshot 2025-06-05 122326](https://github.com/user-attachments/assets/fb43feb8-7b2f-455b-8a8a-b07cedac0467)
+Dips: February 2023, October 2023 (~$2M or less)
 
-Chevrolet: $48M
+# 📌 Insight: Seasonality affects volume. Mid-year shows highest banking activity. Campaigns can align with this pattern.
 
-Ford: $47M
+## 👤 Account Insights
+## 🏦 Account Type by Customers
+![Screenshot 2025-06-13 140841](https://github.com/user-attachments/assets/c06a804b-5049-44b7-91f9-4f179d042313)
 
-Dodge: $44M
+Savings Accounts: 2.51K (50.14%)
 
-Oldsmobile & Mercedes-Benz: $35M each
+Current Accounts: 2.49K (49.86%)
 
-Shows which manufacturers offer high-ticket products. Ideal for positioning luxury vs. economy vehicles.
+## 📌 Insight: Near-even split—great opportunity to promote switching benefits or bundled offers across account types.
 
-#### ⚖️ Gender by Annual Income
-![Screenshot 2025-06-05 122549](https://github.com/user-attachments/assets/e499a12b-fc37-4184-ac9c-12250ca5951e)
+## 💰 High-Value Customers
+## 🏅 Top 10 Customers by Transaction Volume
+![Screenshot 2025-06-13 140849](https://github.com/user-attachments/assets/743eab02-e36e-42b3-91b3-0d437452f633)
 
-Male: $16B (80.56%)
+Timothy: $0.64M
 
-Female: $3.86B (19.44%)
+Matthew: $0.62M
 
-Substantial disparity highlights the need for gender-specific strategies in marketing, financing, and customer service.
+Paul: $0.61M
 
-### 📈 Recommendations to Enhance Growth
-1. Capitalize on High-Income Customers,
-Why: The top 10 customers (e.g., Emma, Lucas) account for disproportionately high income.
+Ronald: $0.60M
 
-##### Action:
+Betty: $0.59M
 
-Offer exclusive loyalty programs, luxury upgrades, or premium financing packages.
+Linda: $0.58M
 
-Use personalized marketing to retain and upsell to these customers.
+Sandra: $0.57M
 
-Develop VIP customer tiers with perks tied to income or past purchases.
+## 📌 Insight: Small group of customers driving significant transaction volume—ideal for loyalty and retention programs.
 
-2. Tap Into Underserved Low-Income Segment,
-Why: A large group of customers (e.g., Adell, Abril) are clustered at the $13.5K annual income level.
+### 📈 Recommendations for Growth & Optimization
+# 1. Target High-Volume Cities for Expansion
+Why: San Jose and San Francisco show the highest concentration of customers.
+Action: Launch regional promotions, open new branches, or offer city-specific incentives.
 
-#### Action:
+# 2. Strengthen Customer Engagement During Low Transaction Months
+Why: February and October see transaction dips.
+Action: Introduce seasonal loan offers, cashback promotions, or holiday campaigns to boost activity.
 
-Introduce affordable vehicle models or used cars with flexible financing.
+# 3. Mitigate Risk from High Loan Exposure
+Why: Loans ($127.51M) are 5x higher than account deposits ($25.30M).
+Action: Rebalance portfolio by incentivizing savings or high-balance deposits. Launch high-yield savings accounts.
 
-Consider subscription-based ownership models or short-term leasing.
+# 4. Leverage High-Value Customers
+Why: Top 7 customers handle ~$4.2M in volume.
+Action: Offer premium tiers, tailored financial products, or dedicated support. Use data analytics for targeted retention.
 
-Partner with community organizations for income-based incentive programs.
-
-3. Leverage Gender-Based Insights,
-Why: Males contribute 80.56% of the income; females only 19.44%.
-
-#### Action:
-
-Investigate potential barriers for women in purchasing or financing vehicles.
-
-Launch women-focused advertising campaigns and incentives (e.g., family-friendly packages).
-
-Improve dealership experience and service inclusivity (e.g., female sales staff, safety packages).
-
-4. Expand High-Value Brand Offerings,
-Why: Chevrolet, Ford, and Dodge lead in vehicle pricing (up to $48M).
-
-#### Action:
-
-Highlight and promote top-selling, high-margin models through campaigns and financing bundles.
-
-Use data from high spenders to refine luxury product development and dealership inventory.
-
-5. Optimize Customer Segmentation,
-Why: Customer data reveals clear income tiers and brand preferences.
-
-#### Action:
-
-Use segmentation (High, Mid, Low income) to tailor offers, promotions, and financing.
-
-Build dynamic dashboards for sales teams to track key customer segments in real time.
-
-6. Enhance Data-Driven Personalization,
-Why: The dashboard enables filtering by customer and company.
-
-#### Action:
-
-Leverage this interactivity in the sales process: equip sales reps with tools to recommend models based on customer profiles.
-
-Use insights to send targeted offers via email or SMS.
-
-
-
-
+# 5. Cross-Sell Based on Account Type Balance
+Why: Account type is nearly evenly split.
+Action: Design cross-sell strategies—e.g., upsell credit cards or loans to savings customers and vice versa.
