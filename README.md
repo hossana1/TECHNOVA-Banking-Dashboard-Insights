@@ -1,7 +1,7 @@
 # TECHNOVA-Banking-Dashboard
 ## This dashboard presents a comprehensive view of customer demographics, loan and deposit behaviors, account types, and transaction trends across various U.S. cities. It is designed to assist TECHNOVA’s financial services team in identifying trends, managing risk, and improving customer service strategies
 ### Analyst: Hossana
-## Date: 09/06/2025
+## Date: 01/05/2025
 ## 🧾 Overview of the Dashboard
 ![Screenshot 2025-06-09 170509](https://github.com/user-attachments/assets/25bed7ef-5597-4d7a-94c2-edeab36f8d95)
 Dashboard Preview
